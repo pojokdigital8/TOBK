@@ -1,0 +1,12 @@
+PANDUAN SINGKAT - TOBK DS ULTIMATE
+========================================
+
+1. Upload SEMUA file di paket ini ke root repo GitHub (jangan upload file zip-nya).
+2. Repo > Settings > Pages > Deploy from a branch > main / (root) > Save.
+3. Tunggu 1-2 menit lalu buka https://USERNAME.github.io/NAMA-REPO/
+
+Instal di HP:
+- Android (Chrome): menu titik tiga > Instal aplikasi
+- iPhone (Safari): Bagikan > Tambahkan ke Layar Utama
+
+Jika mengubah file PWA, naikkan angka versi cache di sw.js (v1 > v2).
